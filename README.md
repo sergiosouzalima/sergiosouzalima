@@ -6,6 +6,7 @@
 * 🌱 I’m currently learning Database administration
   - Oracle
   - SQL Server
+  - <a href="https://golang.org">Go Lang</a>
 
 * 👯 I’m currently collaborating on Open Source projects
   - <a href="https://harbour.github.io">Harbour Compiler</a>
