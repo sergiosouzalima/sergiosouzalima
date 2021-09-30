@@ -3,10 +3,9 @@
 * 🔭 I’m currently working on Data Architecture
   - Data Modeling 
  
-* 🌱 I’m currently learning Database administration
-  - Oracle
-  - SQL Server
-  - <a href="https://golang.org">Go Lang</a>
+* 🌱 I’m currently learning 
+  - Database administration: Oracle 
+  - Language: <a href="https://golang.org">Go Lang</a>
 
 * 👯 I’m currently collaborating on Open Source projects
   - <a href="https://harbour.github.io">Harbour Compiler</a>
