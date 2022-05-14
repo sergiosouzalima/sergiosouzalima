@@ -4,11 +4,7 @@
   - Data Modeling 
  
 * 🌱 I’m currently learning 
-  - Database administration: Oracle 
-  - Language: <a href="https://golang.org">Go Lang</a>
-
-* 👯 I’m currently collaborating on Open Source projects
-  - <a href="https://harbour.github.io">Harbour Compiler</a>
+  - Language: <a href="https://nim-lang.org">Nim Language</a>
 
 * 📫 How to reach me: sergiosouzalima@gmail.com
   - Send me an e-mail & I'll replay to you soon
