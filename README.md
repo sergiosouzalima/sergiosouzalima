@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sergio Lima
 
 * 🔭 I’m currently working as a
-  -  Systems Analyst & Mumps/Caché Developer
+  -  Systems Analyst & <a href="https://pt.wikipedia.org/wiki/MUMPS">MUMPS</a>/Caché Developer
 
 * 🌱 I’m currently learning
   - Language: <a href="https://nim-lang.org">Nim Language</a>
