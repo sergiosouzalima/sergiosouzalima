@@ -2,6 +2,9 @@
 
 * 🔭 I’m currently working as a
   -  Systems Analyst & <a href="https://pt.wikipedia.org/wiki/MUMPS">MUMPS</a>/<a href="https://en.wikipedia.org/wiki/InterSystems_Caché">Caché</a> Developer
+  -  Data Modeler. <a
+     href="https://www.sap.com/products/technology-platform/powerdesigner-data-modeling-tools.html">PowerDesigner
+     is my main modeler tool.</a>
 
 * 🌱 I’m currently learning
   - Language: <a href="https://nim-lang.org">Nim Language</a>
