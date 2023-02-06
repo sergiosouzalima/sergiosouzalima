@@ -7,6 +7,7 @@
      is my main modeler tool.</a>
 
 * 🌱 I’m currently learning
+  - Language: <a href="https://www.rust-lang.org">Rust Language</a>
   - Language: <a href="https://nim-lang.org">Nim Language</a>
   - ETL Tool: <a href="https://hop.apache.org">Apache HOP</a>
 
